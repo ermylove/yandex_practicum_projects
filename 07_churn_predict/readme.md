@@ -6,4 +6,4 @@
 4. Измерить AUC-ROC.
 
 ### Использованные инструменты:
-pandas, matplotlib, shap, catboost, preprocessing, over_sampling, pipeline, SVC
+pandas, matplotlib, shap, sklearn, catboost, preprocessing, over_sampling, pipeline, SVC
